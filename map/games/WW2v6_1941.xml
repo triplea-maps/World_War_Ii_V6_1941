@@ -294,7 +294,6 @@
     <connection t1="41 Sea Zone" t2="Mexico"/>
     <connection t1="42 Sea Zone" t2="43 Sea Zone"/>
     <connection t1="42 Sea Zone" t2="49 Sea Zone"/>
-    <connection t1="42 Sea Zone" t2="Western Canada"/>
     <connection t1="42 Sea Zone" t2="Western United States"/>
     <connection t1="43 Sea Zone" t2="44 Sea Zone"/>
     <connection t1="43 Sea Zone" t2="48 Sea Zone"/>
